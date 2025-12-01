@@ -15,7 +15,7 @@ BLUE='\033[0;34m'
 NC='\033[0m' # No Color
 
 # GitHub repository (update with your actual repo)
-GITHUB_REPO="https://raw.githubusercontent.com/mikesploit/exfiltration-tools/main/exfil.py"
+GITHUB_REPO="https://raw.githubusercontent.com/mikesploitsec/exfiltration-tools/main/exfil.py"
 LOCAL_SCRIPT="exfil.py"
 
 echo -e "${CYAN}========================================${NC}"
